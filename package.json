@@ -1,0 +1,16 @@
+{
+  "name": "FirstPublicRepository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d Code"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://moeez57.github.io/MyFavouriteMovies",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
